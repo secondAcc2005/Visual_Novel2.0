@@ -37,7 +37,6 @@ label start:
     hide lize
     with dissolve
     with vpunch
-    with vpunch
 
     show lize school smile with dissolve
 
@@ -96,7 +95,7 @@ label answer:
     play music 'street.mp3' fadeout 1
 
     '''
-    День. 23 градуса по Цельсию.
+    День. 24 градуса по Цельсию.
 
     Звуки мягко доносились из разных мест: машины проезжали, люди куда-то спешили, птицы продолжали свою песнь.
 
